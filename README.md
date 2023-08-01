@@ -1,10 +1,12 @@
-# Hi! I'm Jorge ![waving hand](https://raw.githubusercontent.com/jorgesm/jorgesm/main/wave.gif)
+# Hi! I'm [Jorge](https://jorgesm.com/) 👋
 
-My name is [Jorge Sancho Muñoz](https://jorgesm.com/) and I'm an aerospace engineer in the world of data analysis and project management. I'm from Spain, living in Valencia.
+An aerospace engineer in the world of data analysis and project management. I'm from Spain, living in Valencia.
 
 ## 🚀 Interests
 
-Besides coding, I'm interested in the financial world and constantly learning about the stock market and portfolio optimizations. I'm also interested in AI and machine learning, and I'm currently learning about language models and their applications.
+Besides coding, I'm interested in the financial world and constantly learning about the stock market and portfolio optimizations. I'm also interested in AI and machine learning, and I'm currently learning about language models and their applications.  
+
+Always looking for the next challenge! 🔍👀
 
 ## 🔧 Technologies & Tools
 
