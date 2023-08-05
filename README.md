@@ -4,7 +4,9 @@ An aerospace engineer in the world of data analysis and project management. I'm 
 
 ## 🚀 Interests
 
-Besides coding, I'm interested in the financial world and constantly learning about the stock market and portfolio optimizations. I'm also interested in AI and machine learning, and I'm currently learning about language models and their applications.  
+Besides coding, I'm interested in the financial world and constantly learning about the stock market and portfolio optimizations. I created [Portfoliostats](https://portfoliostats.streamlit.app/) to backtest funds portfolios and analyze their performance.
+
+I'm also interested in AI and machine learning, and I'm currently learning about language models and their applications.  
 
 Always looking for the next challenge! 🔍👀
 
