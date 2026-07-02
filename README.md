@@ -1,24 +1,25 @@
-# Hi! I'm [Jorge](https://jorgesm.com/) 👋
+# Hi, I'm Jorge 👋
 
-An aerospace engineer in the world of data analysis and product management. I'm from Spain, living in Valencia.
+[Head of Product & AI at GPTadvisor](https://gptadvisor.com) — building generative AI tools for wealth management, used by thousands of advisors at 15+ banks across Europe and LATAM.
 
-## 🚀 Interests
+Aerospace engineer by training. Before GPTadvisor I co-founded [Stratolloon](https://stratolloon.com), a satellite-data analytics platform recognized twice by the European Space Agency. Different altitude, same job: making complex systems reliable enough to trust.
 
-Besides coding, I'm interested in the financial world and constantly learning about the stock market and portfolio optimizations. I'm also interested in AI and machine learning, and I'm currently exploring large language models and their applications.  
+More about me at [jorgesm.com](https://jorgesm.com/).
 
-Always looking for the next challenge! 🔍👀
+## 🛠️ Things I've built
 
-## 🔧 Technologies & Tools
+- [**Apophis Tracker**](https://apophis-tracker.com) — real-time tracker for asteroid 99942 Apophis, which will pass closer to Earth than geostationary satellites on April 13, 2029. Powered by NASA JPL Horizons data.
+- [**sancho.vc tools**](https://tools.sancho.vc) — tax calculators and portfolio analytics for the self-directed Spanish investor. Privacy-first: everything runs in your browser.
 
-This is what I use on a daily basis:
+## 🔧 What I use
 
-![OS - macOS](https://img.shields.io/badge/OS-macOS-blue)
-![Editor - Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visualstudiocode)
-![Code - Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
-![DB - PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-blue?logo=postgresql&logoColor=white)
-![Data Visualization - Streamlit](https://img.shields.io/badge/Data_Visualization-Streamlit-blue?logo=streamlit&logoColor=white)
-![Cloud - Heroku](https://img.shields.io/badge/Cloud-Heroku-blue?logo=heroku&logoColor=white)
-![Workflows - Apache Airflow](https://img.shields.io/badge/Workflows-Apache_Airflow-blue?logo=apacheairflow)
-![LLMs - GPT & Langchain](https://img.shields.io/badge/LLMs-GPT_%26_Langchain-blue?logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-blue?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-blue?logo=claude&logoColor=white)
 
-<!-- Icons made with: https://michaelcurrin.github.io/badge-generator/#/generic -->
+## 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/jorgesanchomunoz/) · [X](https://x.com/jorge_sm1311) · [jorgesm.com](https://jorgesm.com/)
